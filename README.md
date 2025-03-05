@@ -38,6 +38,14 @@ Q004, Q005, Q006, Q007, Q008, Q009, Q010, Q011, Q012,
 Q013, Q014, Q015, Q016, Q017, Q018, Q019, Q020, Q021, 
 Q022, Q023, Q024, Q025
 
+## 2. Transfromação de dados
+- Manipulação de dados ausentes
+- Apagar linhas e colunas
+- Salvar em formato .parquet com uma partição
+## 3. Carga de dados
+- Os dados limpos foram armazenados no Data Lake Storange Azure na camada Silver da arquitetura medallion
+
+
 
 
 
