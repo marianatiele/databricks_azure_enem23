@@ -1,4 +1,4 @@
-# Pipeline ETL do ENEM 2023 na databricks e azure
+# Pipeline ETL do ENEM 2023 na databricks azure
 <img src="https://s2.glbimg.com/s5k6ZI5sWZ_3bT2m_bmMEgiinSI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/v/T/OooxGqTYaOZ0gGRGQr9g/gabarito-enem-2022-3.jpg" width=75%  height = 50%>
 
 ## Visão Geral do Projeto
