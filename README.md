@@ -43,7 +43,17 @@ Q022, Q023, Q024, Q025
 - Apagar linhas e colunas
 - Salvar em formato .parquet com uma partição
 ## 3. Carga de dados
-- Os dados limpos foram armazenados no Data Lake Storange Azure na camada Silver da arquitetura medallion
+- Os dados limpos foram armazenados no Data Lake Storange Azure na camada Silver da arquitetura medallion.
+## 4. Fluxograma do projeto - Enem 
+![image](https://github.com/user-attachments/assets/e1e6c881-c32c-4441-ba00-d9b3f03c198c)
+
+## 5. Painel Enem 2023
+
+![image](https://github.com/user-attachments/assets/f6fe8d1c-f4cd-496e-be75-151be13c8ed2)
+
+-
+![image](https://github.com/user-attachments/assets/6e2ee031-474b-4322-b000-c0c2299877b6)
+
 
 
 
